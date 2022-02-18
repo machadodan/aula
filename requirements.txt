@@ -9,3 +9,10 @@ pillow==8.0.1
 pytest==6.1.2
 pytest-cov==2.10.1
 pytest-django==4.1.0
+
+# parte-2
+django-widget-tweaks==1.4.8
+
+# parte-3
+django-crispy-forms==1.11.0
+django-localflavor==3.0.1
